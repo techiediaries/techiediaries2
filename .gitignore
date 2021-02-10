@@ -1,0 +1,13 @@
+### Install
+
+.bundle/
+vendor/
+Gemfile.lock
+
+
+### Build
+
+.jekyll-cache/
+.jekyll-metadata
+# Match the Action's output directory.
+build/
